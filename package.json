@@ -1,6 +1,6 @@
 {
-  "name": "api-livraria",
-  "version": "1.0.0",
+  "name": "api-bookstore",
+  "version": "1.0.1",
   "description": "API REST para registros de uma livraria.",
   "main": "index.js",
   "type": "module",
@@ -9,8 +9,8 @@
     "start": "nodemon server.js"
   },
   "keywords": [
-    "livraria",
-    "registros"
+    "bookstore",
+    "database"
   ],
   "author": "Gabriel Torquato",
   "license": "ISC",
